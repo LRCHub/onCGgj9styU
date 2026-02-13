@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "青春コンプレックス -We will B- Live ver.",
+  "base_artist": "結束バンド",
+  "createdAt": "2026-02-13T10:27:26.470505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青春コンプレックス",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/01_青春コンプレックス_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青春コンプレックス",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/02_青春コンプレックス_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青春コンプレックス",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/03_青春コンプレックス_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青春コンプレックス -恒星- Live ver.",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/04_青春コンプレックス_-恒星-_Live_ver._結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青春コンプレックス -恒星- Live ver.",
+      "artist": "結束バンド (青山吉能, 鈴代紗弓, 水野朔, 長谷川育美)",
+      "has_synced": true,
+      "path": "select/05_青春コンプレックス_-恒星-_Live_ver._結束バンド_(青山吉能,_鈴代紗弓,_水野朔,_長谷川育美).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青春コンプレックス",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/06_青春コンプレックス_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青春コンプレックス",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/07_青春コンプレックス_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青春コンプレックス-青春症候群",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/08_青春コンプレックス-青春症候群_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青春コンプレックス -恒星- Live ver.",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/09_青春コンプレックス_-恒星-_Live_ver._kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青春コンプレックス (청춘 콤플렉스)",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/10_青春コンプレックス_(청춘_콤플렉스)_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "青春コンプレックス - seisyun complex",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/11_青春コンプレックス_-_seisyun_complex_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "青春コンプレックス - seisyun complex",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/12_青春コンプレックス_-_seisyun_complex_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "青春コンプレックス - seisyun complex",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/13_青春コンプレックス_-_seisyun_complex_kessoku_band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春コンプレックス",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_01_青春コンプレックス_結束バンド.txt"
+    }
+  ]
+}
